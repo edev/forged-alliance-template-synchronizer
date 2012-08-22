@@ -14,7 +14,7 @@ Basic Installation (Windows)
 - Locate your Game.prefs file. To do this, open My Computer and paste the one of the following into the address bar at the top:
     - Windows XP: %USERPROFILE%\Local Settings\Application Data\Gas Powered Games\Supreme Commander Forged Alliance
     - Windows Vista/7: %USERPROFILE%\AppData\Local\Gas Powered Games\Supreme Commander Forged Alliance
-- Download the right Lua executable from [http://luabinaries.sourceforge.net/](LuaBinaries) - if in doubt, grab the Windows x86 Executables.
+- Download the right Lua executable from http://luabinaries.sourceforge.net - if in doubt, grab the Windows x86 Executables.
 - Unzip the file you just downloaded to the folder that contains Game.prefs.
 - Download the files in this repostory. Place them in the same folder as Game.prefs.
 - Back up your existing Game.prefs file! Copying it to your desktop is always a safe bet.
