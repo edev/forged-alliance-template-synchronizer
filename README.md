@@ -1,6 +1,13 @@
 forged-alliance-template-synchronizer
 =====================================
 
+This project is currently under redesign (as of June 2018) to address the known limitations of the initial version. The instructions pertaining to the initial version are included below until the rewrite is complete. Note: the initial version has been moved to the archive folder.
+
+Please see the Wiki for information about the redesign.
+
+Initial version
+---------------
+
 A standalone Supreme Commander: Forged Alliance template synchronization utility, written in Lua 5.2.
 
 Special thanks
@@ -76,4 +83,4 @@ Possible Enhancements
 License and Copyright
 ---------------------
 
-Copyright 2012 Dylan Laufenberg. This software is released under the terms of the MIT License as stated in the included file named "LICENSE".
+Copyright 2018 Dylan Laufenberg. This software is released under the terms of the MIT License as stated in the included file named "LICENSE".
