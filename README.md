@@ -1,7 +1,7 @@
 forged-alliance-template-synchronizer
 =====================================
 
-This project is currently under redesign (as of June 2018) to address the known limitations of the initial version. The instructions pertaining to the initial version are included below until the rewrite is complete. Note: the initial version has been moved to the archive folder.
+This project has undergone a partial redesign (as of June 2018) to address the known limitations of the initial version. The instructions pertaining to the initial version are included below unless and until the rewrite is complete. Unless I find out that people still play Forged Alliance, I'm unlikely to complete the redesign; I finally got bored of it in 2018. Note: the initial version has been moved to the archive folder.
 
 Please see the Wiki for information about the redesign.
 
